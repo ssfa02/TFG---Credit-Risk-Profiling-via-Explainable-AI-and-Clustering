@@ -1,8 +1,8 @@
 # TFG - Segmentación Supervisada de Perfiles de Riesgo Crediticio mediante Valores SHAP
 
-Este repositorio contiene el código desarrollado para el Trabajo de Fin de Grado (TFG) centrado en la segmentación supervisada de perfiles de riesgo crediticio mediante técnicas de Machine Learning e Inteligencia Artificial Explicable (XAI).
+Este repositorio contiene el código desarrollado para el Trabajo de Fin de Grado (TFG) titulado "Segmentación Supervisada de Perfiles de Riesgo Crediticio mediante Valores SHAP". El proyecto propone una metodología de segmentación supervisada orientada al análisis del riesgo crediticio, combinando técnicas de aprendizaje automático, explicabilidad e identificación de perfiles mediante clustering.
 
-El repositorio sirve como apoyo a la metodología y los resultados presentados en la memoria del TFG.
+El repositorio sirve como apoyo a la metodología, experimentación y resultados presentados en la memoria del TFG.
 
 ## Objetivo
 
