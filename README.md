@@ -50,15 +50,12 @@ Los resultados obtenidos muestran diferencias significativas entre los perfiles 
 
 - Python
 - Pandas
-- NumPy
 - Scikit-learn
 - LightGBM
 - SHAP
 - UMAP
 - DBSCAN
 - SkopeRules
-- Matplotlib
-- Seaborn
 
 ## Autora
 
