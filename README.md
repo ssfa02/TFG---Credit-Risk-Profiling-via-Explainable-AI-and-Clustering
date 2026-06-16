@@ -40,6 +40,9 @@ El estudio utiliza el conjunto de datos German Credit Data, ampliamente utilizad
 
 El dataset contiene información financiera, demográfica y relacionada con préstamos de 1.000 solicitantes de crédito.
 
+**Fuente del dataset:**
+- [German Credit Data (Kaggle)](https://www.kaggle.com/datasets/uciml/german-credit)
+
 ## Resultados
 
 La metodología permite identificar grupos de clientes con patrones explicativos similares y caracterizarlos mediante reglas interpretables.
